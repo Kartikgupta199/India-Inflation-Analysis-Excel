@@ -1,4 +1,4 @@
-# 🇮🇳 India CPI Inflation Analysis – Excel Dashboard Project 📊
+# India CPI Inflation Analysis – Excel Dashboard Project 📊
 
 ## 📌 Overview
 
@@ -32,6 +32,9 @@ This project includes a focused section analyzing the impact of **India's first 
 - Data Cleaning
 - Advanced Formulas (`INDEX`, `MATCH`, `XLOOKUP`, etc.)
 - Basic Dashboard Design & Visual Storytelling
+
+## Screenshot
+![India Inflation](https://github.com/user-attachments/assets/c461706b-3bc6-45a8-8b5e-795e266def6e)
 
 
 
